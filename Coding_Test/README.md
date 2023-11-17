@@ -12,7 +12,7 @@
 - [랜선 자르기 (백준 1654번)](https://xkdl780.tistory.com/37)
 - [보석 상자 (백준 2792번)](https://xkdl780.tistory.com/39)
 - [사냥꾼 (백준 8983번)](https://xkdl780.tistory.com/40)
-- [게임 (백준 1072번)](https://xkdl780.tistory.com)
+- [게임 (백준 1072번)](https://xkdl780.tistory.com/42)
 
 </br>
 
