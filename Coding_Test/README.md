@@ -16,6 +16,12 @@
 
 </br>
 
+# 정렬 (Sorting)
+- [신입 사원 (백준 1946번)](https://xkdl780.tistory.com/44)
+- [수 찾기 (백준 1920번)](https://xkdl780.tistory.com/45)
+
+</br>
+
 # 기타 (etc.)
 - [제일 작을 수 제거하기 (프로그래머스)](https://xkdl780.tistory.com/19)
 - [달리기 경주 (프로그래머스)](https://xkdl780.tistory.com/21)

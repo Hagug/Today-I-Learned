@@ -6,7 +6,7 @@
 # Coding Test
 - [그리디 (Greedy)](Coding_Test/README.md)
 - [이분 탐색 (Binary Search)](Coding_Test/README.md)
-
+- [정렬 (Sorting)](Coding_Test/README.md)
 </br>
 
 # Computer Structure
