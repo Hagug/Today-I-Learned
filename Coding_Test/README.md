@@ -19,6 +19,15 @@
 # 정렬 (Sorting)
 - [신입 사원 (백준 1946번)](https://xkdl780.tistory.com/44)
 - [수 찾기 (백준 1920번)](https://xkdl780.tistory.com/45)
+- [수열 정렬 (백준 1015번)](https://xkdl780.tistory.com/47)
+- [이차원 배열과 연산 (백준 17140번)](https://xkdl780.tistory.com/49)
+- [N번째 큰 수 (백준 2075번)](https://xkdl780.tistory.com/50)
+
+</br>
+
+# 깊이 우선 탐색 (DFS)
+- [바이러스 (백준 2606번)](https://xkdl780.tistory.com/51)
+
 
 </br>
 
