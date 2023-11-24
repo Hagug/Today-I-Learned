@@ -3,14 +3,16 @@
 
 </br>
 
-# Coding Test
-- [그리디 (Greedy)](Coding_Test/README.md)
-- [이분 탐색 (Binary Search)](Coding_Test/README.md)
-- [정렬 (Sorting)](Coding_Test/README.md)
+# [Coding Test](Coding_Test/README.md)
+- 그리디 (Greedy)
+- 이분 탐색 (Binary Search)
+- 정렬 (Sorting)
+- 깊이 우선 탐색 (DFS)
+
 </br>
 
-# Computer Structure
-- [혼자 공부하는 컴퓨터 구조, 운영체제](Computer_Structure/README.md)
+# [Computer Structure](Computer_structure/README.md)
+- 혼자 공부하는 컴퓨터 구조, 운영체제
 
 
 </br>
