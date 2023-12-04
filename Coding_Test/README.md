@@ -22,6 +22,7 @@
 - [수열 정렬 (백준 1015번)](https://xkdl780.tistory.com/47)
 - [이차원 배열과 연산 (백준 17140번)](https://xkdl780.tistory.com/49)
 - [N번째 큰 수 (백준 2075번)](https://xkdl780.tistory.com/50)
+- [바탕화면정리 (프로그래머스)](https://xkdl780.tistory.com/58)  
 
 </br>
 

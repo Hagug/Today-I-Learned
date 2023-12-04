@@ -11,8 +11,8 @@
 
 </br>
 
-# [Computer Structure](Computer_structure/README.md)
-- 혼자 공부하는 컴퓨터 구조, 운영체제
+# Computer Structure
+- [혼자 공부하는 컴퓨터 구조, 운영체제](Computer_structure/README.md)
 
 
 </br>
