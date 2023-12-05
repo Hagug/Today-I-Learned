@@ -41,3 +41,5 @@
 - [삼총사 (프로그래머스)](https://xkdl780.tistory.com/26)
 - [호텔 대실 (프로그래머스)](https://xkdl780.tistory.com/29)
 - [공원 산책 (프로그래머스)](https://xkdl780.tistory.com/30)
+- [2의 영역 (프로그래머스)](https://xkdl780.tistory.com/59)
+- [공 넣기 (백준 10810번)](https://xkdl780.tistory.com/60)
