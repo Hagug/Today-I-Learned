@@ -28,6 +28,9 @@
 
 # 깊이 우선 탐색 (DFS)
 - [바이러스 (백준 2606번)](https://xkdl780.tistory.com/51)
+- [단지번호 붙이기 (백준 2667번)](https://xkdl780.tistory.com/55)
+- [유기농 배추 (백준 1012)](https://xkdl780.tistory.com/56)
+- [치즈 (백준 2638번)](https://xkdl780.tistory.com/65)
 
 
 </br>
