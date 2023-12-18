@@ -9,3 +9,19 @@
   
 # 운영체제    
 - [프로세스 vs 스레드](https://xkdl780.tistory.com/61)
+
+</br>  
+
+# 자료구조
+- [Array & ArrayList & LinkedList](https://xkdl780.tistory.com/66)
+- [이진 트리의 종류](https://xkdl780.tistory.com/70)
+
+</br>  
+
+# 데이터베이스
+- [RDBMS & ORM](https://xkdl780.tistory.com/67)
+
+</br>  
+
+# 네트워크
+- [HTTP & HTTPS](https://xkdl780.tistory.com/68)

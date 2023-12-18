@@ -35,6 +35,12 @@
 
 </br>
 
+# 너비 우선 탐색 (BFS)
+- [연결 요소의 개수 (백준 11724번)](https://xkdl780.tistory.com/69)
+
+
+</br>
+
 # 스택 (Stack)
 - [괄호 (백준 9012번)](https://xkdl780.tistory.com/62)
 - [균형잡힌 세상 (백준 4949번)](https://xkdl780.tistory.com/64)

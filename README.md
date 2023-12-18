@@ -14,6 +14,9 @@
 # [Computer Sience](Computer_structure/README.md)
 - 혼자 공부하는 컴퓨터 구조, 운영체제
 - 운영체제
+- 자료구조
+- 데이터베이스
+- 네트워크
 
 
 </br>
