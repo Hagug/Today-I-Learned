@@ -38,6 +38,7 @@
 # 너비 우선 탐색 (BFS)
 - [연결 요소의 개수 (백준 11724번)](https://xkdl780.tistory.com/69)
 - [연구소 (백준 14502)](https://xkdl780.tistory.com/71)
+- [미로 (백준 2178번)](https://xkdl780.tistory.com/76)
 
 
 </br>
