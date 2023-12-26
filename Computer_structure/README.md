@@ -9,6 +9,8 @@
   
 # 운영체제    
 - [프로세스 vs 스레드](https://xkdl780.tistory.com/61)
+- [CPU 스케줄링](https://xkdl780.tistory.com/72)
+- [교착상태 (Deadlock)](https://xkdl780.tistory.com/77)
 
 </br>  
 
@@ -25,3 +27,4 @@
 
 # 네트워크
 - [HTTP & HTTPS](https://xkdl780.tistory.com/68)
+- [OSI 7계층](https://xkdl780.tistory.com/74)
