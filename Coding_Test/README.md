@@ -48,6 +48,10 @@
 - [괄호 (백준 9012번)](https://xkdl780.tistory.com/62)
 - [균형잡힌 세상 (백준 4949번)](https://xkdl780.tistory.com/64)
 
+</br>
+
+# 동적 프로그래밍
+- [부녀회장이 될테야 (백준 2775번)](https://xkdl780.tistory.com/80)
 
 </br>
 
