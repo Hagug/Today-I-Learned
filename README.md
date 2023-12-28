@@ -8,6 +8,8 @@
 - 이분 탐색 (Binary Search)
 - 정렬 (Sorting)
 - 깊이 우선 탐색 (DFS)
+- 너비 우선 탐색 (BFS)
+- 동적 프로그래밍 (Dynamic Programming)
 
 </br>
 
