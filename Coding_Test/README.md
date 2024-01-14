@@ -54,6 +54,7 @@
 - [부녀회장이 될테야 (백준 2775번)](https://xkdl780.tistory.com/80)
 - [1로 만들기 (백준 1463번)](https://xkdl780.tistory.com/82)
 - [1, 2, 3 더하기 (백준 9095번)](https://xkdl780.tistory.com/83)
+- [RGB거리 (BOJ 1149번)](https://xkdl780.tistory.com/86)
 
 </br>
 
