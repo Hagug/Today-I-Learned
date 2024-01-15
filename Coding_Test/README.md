@@ -50,11 +50,12 @@
 
 </br>
 
-# 동적 프로그래밍
+# 동적 프로그래밍 (Dynamic Programming)
 - [부녀회장이 될테야 (백준 2775번)](https://xkdl780.tistory.com/80)
 - [1로 만들기 (백준 1463번)](https://xkdl780.tistory.com/82)
 - [1, 2, 3 더하기 (백준 9095번)](https://xkdl780.tistory.com/83)
 - [RGB거리 (BOJ 1149번)](https://xkdl780.tistory.com/86)
+- [계단 오르기 (BOJ 2579번)](https://xkdl780.tistory.com/87)
 
 </br>
 
