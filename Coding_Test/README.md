@@ -56,6 +56,8 @@
 - [1, 2, 3 더하기 (백준 9095번)](https://xkdl780.tistory.com/83)
 - [RGB거리 (BOJ 1149번)](https://xkdl780.tistory.com/86)
 - [계단 오르기 (BOJ 2579번)](https://xkdl780.tistory.com/87)
+- [2×n 타일링 (BOJ 11726번)](https://xkdl780.tistory.com/89)
+- [정수 삼각형 (BOJ 1932번)](https://xkdl780.tistory.com/90)
 
 </br>
 
