@@ -58,6 +58,7 @@
 - [계단 오르기 (BOJ 2579번)](https://xkdl780.tistory.com/87)
 - [2×n 타일링 (BOJ 11726번)](https://xkdl780.tistory.com/89)
 - [정수 삼각형 (BOJ 1932번)](https://xkdl780.tistory.com/90)
+- [LIS - 최장 증가 부분 수열 문제 모음(1) (BOJ)](https://xkdl780.tistory.com/96)
 
 </br>
 
@@ -73,3 +74,4 @@
 - [2의 영역 (프로그래머스 / 배열)](https://xkdl780.tistory.com/59)
 - [공 넣기 (백준 10810번 / 배열)](https://xkdl780.tistory.com/60)
 - [세로 읽기 (백준 10798번 / 문자열)](https://xkdl780.tistory.com/63)
+- [다리 놓기 (BOJ 1010번](https://xkdl780.tistory.com/95)
