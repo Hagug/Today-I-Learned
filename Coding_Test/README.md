@@ -13,6 +13,7 @@
 - [보석 상자 (백준 2792번)](https://xkdl780.tistory.com/39)
 - [사냥꾼 (백준 8983번)](https://xkdl780.tistory.com/40)
 - [게임 (백준 1072번)](https://xkdl780.tistory.com/42)
+- [두 용액 (BOJ 2470번)](https://xkdl780.tistory.com/108)
 
 </br>
 
@@ -59,6 +60,18 @@
 - [2×n 타일링 (BOJ 11726번)](https://xkdl780.tistory.com/89)
 - [정수 삼각형 (BOJ 1932번)](https://xkdl780.tistory.com/90)
 - [LIS - 최장 증가 부분 수열 문제 모음(1) (BOJ)](https://xkdl780.tistory.com/96)
+- [LIS - 최장 증가 부분 수열 문제 모음(2) (BOJ)](https://xkdl780.tistory.com/97)
+- [연속합 (BOJ 1912번)](https://xkdl780.tistory.com/98)
+- [평범한 배낭 (BOJ 12865 / 배낭 문제)](https://xkdl780.tistory.com/99)
+- [안녕 (BOJ 1535번 / 배낭 문제)](https://xkdl780.tistory.com/100)  
+- [동전 (BOJ 9084번)](https://xkdl780.tistory.com/101)
+- [호텔 (BOJ 1106번)](https://xkdl780.tistory.com/102)
+- [LCS(최장 길이 공통 부분 수열) (BOJ 9251번 / LCS)](https://xkdl780.tistory.com/103)
+- [포도주 시식 (BOJ 2156번)](https://xkdl780.tistory.com/104)
+- [쉬운 계단 수 (BOJ 10844번)](https://xkdl780.tistory.com/105)
+- [이친수 (BOJ 2193번)](https://xkdl780.tistory.com/106)
+- [내리막 길 (BOJ 1520번 / DP / DFS)](https://xkdl780.tistory.com/107)
+- []
 
 </br>
 
