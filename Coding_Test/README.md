@@ -3,7 +3,9 @@
 - [설탕 배달 (백준)](https://xkdl780.tistory.com/32)
 - [회의실 배정 (백준)](https://xkdl780.tistory.com/33)
 - [주유소 (백준)](https://xkdl780.tistory.com/34)
-- [공주님의 정원 (백준)](https://xkdl780.tistory.com/35)
+- [공주님의 정원 (백준)](https://xkdl780.tistory.com/35)  
+- [통나무 건너뛰기 (BOJ 11497번)](https://xkdl780.tistory.com/110)  
+- [보석 도둑 (BOJ 1202번 / 그리디 / 우선순위 큐)](https://xkdl780.tistory.com/114)
 
 </br>
 
@@ -13,7 +15,8 @@
 - [보석 상자 (백준 2792번)](https://xkdl780.tistory.com/39)
 - [사냥꾼 (백준 8983번)](https://xkdl780.tistory.com/40)
 - [게임 (백준 1072번)](https://xkdl780.tistory.com/42)
-- [두 용액 (BOJ 2470번)](https://xkdl780.tistory.com/108)
+- [두 용액 (BOJ 2470번)](https://xkdl780.tistory.com/108)  
+- [수 고르기 (BOJ 2230번)](https://xkdl780.tistory.com/111)
 
 </br>
 
@@ -23,7 +26,10 @@
 - [수열 정렬 (백준 1015번)](https://xkdl780.tistory.com/47)
 - [이차원 배열과 연산 (백준 17140번)](https://xkdl780.tistory.com/49)
 - [N번째 큰 수 (백준 2075번)](https://xkdl780.tistory.com/50)
-- [바탕화면정리 (프로그래머스)](https://xkdl780.tistory.com/58)  
+- [바탕화면정리 (프로그래머스)](https://xkdl780.tistory.com/58)    
+- [통계학 (BOJ 2108번)](https://xkdl780.tistory.com/109)  
+- [도서관 (BOJ 1461번)](https://xkdl780.tistory.com/112)  
+- [좌표 압축 (BOJ 18870번)](https://xkdl780.tistory.com/113)
 
 </br>
 
@@ -71,7 +77,7 @@
 - [쉬운 계단 수 (BOJ 10844번)](https://xkdl780.tistory.com/105)
 - [이친수 (BOJ 2193번)](https://xkdl780.tistory.com/106)
 - [내리막 길 (BOJ 1520번 / DP / DFS)](https://xkdl780.tistory.com/107)
-- []
+
 
 </br>
 
