@@ -57,6 +57,9 @@
 - [맥주 마시면서 걸어가기 (BOJ 9205번)](https://xkdl780.tistory.com/132)
 - [안전 영역 (BOJ 2468번)](https://xkdl780.tistory.com/133)
 - [벽 부수고 이동하기 (BOJ 2206번)](https://xkdl780.tistory.com/135)
+- [벽 부수고 이동하기2 (BOJ 14442번)](https://xkdl780.tistory.com/136)
+- [벽 부수고 이동하기3 (BOJ 16933번)](https://xkdl780.tistory.com/137)
+- [숨바꼭질 문제 모음 (BOJ)](https://xkdl780.tistory.com/138)
 
 </br>
 
