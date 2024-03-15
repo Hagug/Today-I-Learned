@@ -6,6 +6,13 @@
 - [공주님의 정원 (백준)](https://xkdl780.tistory.com/35)  
 - [통나무 건너뛰기 (BOJ 11497번)](https://xkdl780.tistory.com/110)  
 - [보석 도둑 (BOJ 1202번 / 그리디 / 우선순위 큐)](https://xkdl780.tistory.com/114)
+- [잃어버린 괄호 (BOJ 1541번)](https://xkdl780.tistory.com/139)
+- [주식 (BOJ 11501번)](https://xkdl780.tistory.com/140)
+- [수 묶기 (BOJ 1744번)](https://xkdl780.tistory.com/141)
+- [강의실 배정 (BOJ 11000번)](https://xkdl780.tistory.com/142)
+- [멀티탭 스케줄링 (BOJ 1700번)](https://xkdl780.tistory.com/143)
+- [선 긋기 (BOJ 2170)](https://xkdl780.tistory.com/144)
+- [줄 세우기 (BOJ 7570번)](https://xkdl780.tistory.com/146)
 
 </br>
 
