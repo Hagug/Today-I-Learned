@@ -13,6 +13,7 @@
 - [멀티탭 스케줄링 (BOJ 1700번)](https://xkdl780.tistory.com/143)
 - [선 긋기 (BOJ 2170)](https://xkdl780.tistory.com/144)
 - [줄 세우기 (BOJ 7570번)](https://xkdl780.tistory.com/146)
+- [택배 (BOJ 8980번)](https://xkdl780.tistory.com/147)
 
 </br>
 
@@ -84,6 +85,7 @@
 - [뱀 (BOJ 3190번 / Deque)](https://xkdl780.tistory.com/118)
 - [카드 정렬하기 (BOJ 1715번 / 우선순위 큐)](https://xkdl780.tistory.com/120)
 - [가운데를 말해요 (BOJ 1655번 / Heap)](https://xkdl780.tistory.com/123)
+- [컨베이어 벨트 위의 로봇 (BOJ 20055번 / 덱)](https://xkdl780.tistory.com/151)
 
 </br>
 
@@ -107,6 +109,8 @@
 - [쉬운 계단 수 (BOJ 10844번)](https://xkdl780.tistory.com/105)
 - [이친수 (BOJ 2193번)](https://xkdl780.tistory.com/106)
 - [내리막 길 (BOJ 1520번 / DP / DFS)](https://xkdl780.tistory.com/107)
+- [1, 2, 3 더하기 4 (BOJ 15989번)](https://xkdl780.tistory.com/148)
+- [지름길 (BOJ 1446번)](https://xkdl780.tistory.com/149)
   
 </br>
 
@@ -130,3 +134,4 @@
 - [공 넣기 (백준 10810번 / 배열)](https://xkdl780.tistory.com/60)
 - [다리 놓기 (BOJ 1010번](https://xkdl780.tistory.com/95)
 - [키로거 (BOJ 5397번 / 연결리스트)](https://xkdl780.tistory.com/125)
+- [A와 B 2 (BOJ 12919번 / Brute Force)](https://xkdl780.tistory.com/150)
