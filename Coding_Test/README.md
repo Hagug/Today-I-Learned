@@ -14,6 +14,10 @@
 - [선 긋기 (BOJ 2170)](https://xkdl780.tistory.com/144)
 - [줄 세우기 (BOJ 7570번)](https://xkdl780.tistory.com/146)
 - [택배 (BOJ 8980번)](https://xkdl780.tistory.com/147)
+- [햄버거 분배 (BOJ 19941번)](https://xkdl780.tistory.com/162)
+- [전구와 스위치 (BOJ 2138번)](https://xkdl780.tistory.com/163)
+- [A → B (BOJ 16953번)](https://xkdl780.tistory.com/164)
+- [단어 수학 (BOJ 1339번)](https://xkdl780.tistory.com/165)
 
 </br>
 
@@ -68,6 +72,7 @@
 - [벽 부수고 이동하기2 (BOJ 14442번)](https://xkdl780.tistory.com/136)
 - [벽 부수고 이동하기3 (BOJ 16933번)](https://xkdl780.tistory.com/137)
 - [숨바꼭질 문제 모음 (BOJ)](https://xkdl780.tistory.com/138)
+- [인구 이동 (BOJ 16234번)](https://xkdl780.tistory.com/159)
 
 </br>
 
@@ -121,6 +126,22 @@
 
 </br>
 
+# 슬라이딩 윈도우 (Sliding Window)
+- [문자열 게임 2 (BOJ 20437번)](https://xkdl780.tistory.com/153)
+- [회전 초밥 (BOJ 2531번)](https://xkdl780.tistory.com/154)
+
+</br>
+
+# 최단 경로 (Shortest Path) 
+- [파티 (BOJ 1238번 / 다익스트라)](https://xkdl780.tistory.com/155)
+- [특정 거리의 도시 찾기 (BOJ 18352번 / 다익스트라 / BFS)](https://xkdl780.tistory.com/156)
+- [녹색 옷 입은 애가 젤다지?(BOJ 4485번 / 다익스트라)](https://xkdl780.tistory.com/157)
+- [K번째 최단경로 찾기 (BOJ 1854번 / 다익스트라)](https://xkdl780.tistory.com/158)
+- [택배 배송 (BOJ 5972번 / 다익스트라)](https://xkdl780.tistory.com/161)
+
+
+</br>
+
 # 기타 (etc.)
 - [제일 작을 수 제거하기 (프로그래머스)](https://xkdl780.tistory.com/19)
 - [달리기 경주 (프로그래머스)](https://xkdl780.tistory.com/21)
@@ -135,3 +156,5 @@
 - [다리 놓기 (BOJ 1010번](https://xkdl780.tistory.com/95)
 - [키로거 (BOJ 5397번 / 연결리스트)](https://xkdl780.tistory.com/125)
 - [A와 B 2 (BOJ 12919번 / Brute Force)](https://xkdl780.tistory.com/150)
+- [등수 구하기 (BOJ 1205번 / 구현)](https://xkdl780.tistory.com/152)
+- [빗물 (BOJ 14719번 / 구현)](https://xkdl780.tistory.com/160)
