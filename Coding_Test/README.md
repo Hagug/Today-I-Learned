@@ -18,6 +18,10 @@
 - [전구와 스위치 (BOJ 2138번)](https://xkdl780.tistory.com/163)
 - [A → B (BOJ 16953번)](https://xkdl780.tistory.com/164)
 - [단어 수학 (BOJ 1339번)](https://xkdl780.tistory.com/165)
+- [저울 (BOJ 2437번)](https://xkdl780.tistory.com/166)
+- [A와 B (BOJ 12940번)](https://xkdl780.tistory.com/167)
+- [센서 (BOJ 2212번)](https://xkdl780.tistory.com/168)
+- [공항 (BOJ 10775번 / 그리디 / 분리 집합)](https://xkdl780.tistory.com/169)
 
 </br>
 
@@ -29,6 +33,8 @@
 - [게임 (백준 1072번)](https://xkdl780.tistory.com/42)
 - [두 용액 (BOJ 2470번)](https://xkdl780.tistory.com/108)  
 - [수 고르기 (BOJ 2230번)](https://xkdl780.tistory.com/111)
+- [용액 (BOJ 2467번)](https://xkdl780.tistory.com/175)  
+- [좋다 (BOJ 1253번)](https://xkdl780.tistory.com/182)
 
 </br>
 
@@ -116,6 +122,7 @@
 - [내리막 길 (BOJ 1520번 / DP / DFS)](https://xkdl780.tistory.com/107)
 - [1, 2, 3 더하기 4 (BOJ 15989번)](https://xkdl780.tistory.com/148)
 - [지름길 (BOJ 1446번)](https://xkdl780.tistory.com/149)
+- [공통 부분 문자열 (BOJ 5582번 / DP / LCS)](https://xkdl780.tistory.com/172)
   
 </br>
 
@@ -123,6 +130,8 @@
 - [세로 읽기 (백준 10798번 / 문자열)](https://xkdl780.tistory.com/63)
 - [AC (BOJ 5430번)](https://xkdl780.tistory.com/116)
 - [단어 뒤집기2 (BOJ 17413)](https://xkdl780.tistory.com/124)
+- [전화번호 목록 (BOJ 5052번)](https://xkdl780.tistory.com/170)
+- [IOIOI (BOJ 5525번)](https://xkdl780.tistory.com/171)
 
 </br>
 
@@ -138,7 +147,20 @@
 - [녹색 옷 입은 애가 젤다지?(BOJ 4485번 / 다익스트라)](https://xkdl780.tistory.com/157)
 - [K번째 최단경로 찾기 (BOJ 1854번 / 다익스트라)](https://xkdl780.tistory.com/158)
 - [택배 배송 (BOJ 5972번 / 다익스트라)](https://xkdl780.tistory.com/161)
+- [횡단보도 (BOJ 24042번)](https://xkdl780.tistory.com/174)
 
+
+</br>
+
+# 투 포인터 (Two Pointer)
+- [회문 (BOJ 17609번)](https://xkdl780.tistory.com/173)
+
+</br>
+
+# 브루트 포스 (Brute Force)  
+- [A와 B 2 (BOJ 12919번 / Brute Force)](https://xkdl780.tistory.com/150)
+- [빌런 호석 (BOJ 22251번)](https://xkdl780.tistory.com/179)
+- [0 만들기 (BOJ 7490번 / DFS / 브루트포스)](https://xkdl780.tistory.com/181)
 
 </br>
 
@@ -155,6 +177,9 @@
 - [공 넣기 (백준 10810번 / 배열)](https://xkdl780.tistory.com/60)
 - [다리 놓기 (BOJ 1010번](https://xkdl780.tistory.com/95)
 - [키로거 (BOJ 5397번 / 연결리스트)](https://xkdl780.tistory.com/125)
-- [A와 B 2 (BOJ 12919번 / Brute Force)](https://xkdl780.tistory.com/150)
 - [등수 구하기 (BOJ 1205번 / 구현)](https://xkdl780.tistory.com/152)
 - [빗물 (BOJ 14719번 / 구현)](https://xkdl780.tistory.com/160)
+- [틱택토 (BOJ 7682번 / 구현)](https://xkdl780.tistory.com/176)
+- [숫자고르기 (BOJ 2668번 / 그래프)](https://xkdl780.tistory.com/177)
+- [크로스 스트릿 (BOJ 9017번 / 구현)](https://xkdl780.tistory.com/178)
+- [스카이라인 쉬운거 (BOJ 1863 / 해시)](https://xkdl780.tistory.com/180)
