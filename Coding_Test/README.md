@@ -35,6 +35,7 @@
 - [수 고르기 (BOJ 2230번)](https://xkdl780.tistory.com/111)
 - [용액 (BOJ 2467번)](https://xkdl780.tistory.com/175)  
 - [좋다 (BOJ 1253번)](https://xkdl780.tistory.com/182)
+- [공유기 설치 (매개변수탐색 / 이분탐색)](https://xkdl780.tistory.com/186)
 
 </br>
 
@@ -59,6 +60,7 @@
 - [DFS와 BFS (BOJ 1260번)](https://xkdl780.tistory.com/126)
 - [촌수계산 (BOJ 2644번)](https://xkdl780.tistory.com/127)
 - [로봇 청소기 (BOJ 14503번)](https://xkdl780.tistory.com/134)
+- [알파벳 (BOJ 1987번 / DFS / 백트래킹)](https://xkdl780.tistory.com/185)
 
 
 </br>
@@ -138,6 +140,7 @@
 # 슬라이딩 윈도우 (Sliding Window)
 - [문자열 게임 2 (BOJ 20437번)](https://xkdl780.tistory.com/153)
 - [회전 초밥 (BOJ 2531번)](https://xkdl780.tistory.com/154)
+- [블로그 (BOJ 21921번)](https://xkdl780.tistory.com/183)
 
 </br>
 
@@ -154,6 +157,7 @@
 
 # 투 포인터 (Two Pointer)
 - [회문 (BOJ 17609번)](https://xkdl780.tistory.com/173)
+- [부분합 (BOJ 1806번)](https://xkdl780.tistory.com/184)
 
 </br>
 
