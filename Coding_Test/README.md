@@ -49,6 +49,7 @@
 - [통계학 (BOJ 2108번)](https://xkdl780.tistory.com/109)  
 - [도서관 (BOJ 1461번)](https://xkdl780.tistory.com/112)  
 - [좌표 압축 (BOJ 18870번)](https://xkdl780.tistory.com/113)
+- [비슷한 단어 (BOJ 2179번)](https://xkdl780.tistory.com/193)
 
 </br>
 
@@ -61,7 +62,6 @@
 - [촌수계산 (BOJ 2644번)](https://xkdl780.tistory.com/127)
 - [로봇 청소기 (BOJ 14503번)](https://xkdl780.tistory.com/134)
 - [알파벳 (BOJ 1987번 / DFS / 백트래킹)](https://xkdl780.tistory.com/185)
-
 
 </br>
 
@@ -81,6 +81,8 @@
 - [벽 부수고 이동하기3 (BOJ 16933번)](https://xkdl780.tistory.com/137)
 - [숨바꼭질 문제 모음 (BOJ)](https://xkdl780.tistory.com/138)
 - [인구 이동 (BOJ 16234번)](https://xkdl780.tistory.com/159)
+- [여행 가자 (BOJ 1976번)](https://xkdl780.tistory.com/188)
+- [불! (BOJ 4179번)](https://xkdl780.tistory.com/190)
 
 </br>
 
@@ -90,6 +92,7 @@
 - [오큰수 (BOJ 17298번)](https://xkdl780.tistory.com/119)
 - [탑 (BOJ 2493번)](https://xkdl780.tistory.com/121)
 - [문자열 폭발 (BOJ 9935번)](https://xkdl780.tistory.com/122)
+- [탑 보기 (BOJ 22866번)](https://xkdl780.tistory.com/198)
 
 </br>  
   
@@ -125,6 +128,8 @@
 - [1, 2, 3 더하기 4 (BOJ 15989번)](https://xkdl780.tistory.com/148)
 - [지름길 (BOJ 1446번)](https://xkdl780.tistory.com/149)
 - [공통 부분 문자열 (BOJ 5582번 / DP / LCS)](https://xkdl780.tistory.com/172)
+- [줄세우기 (BOJ 2631번 / DP / LIS)](https://xkdl780.tistory.com/194)
+- [게임 개발 (BOJ 1516번)](https://xkdl780.tistory.com/196)
   
 </br>
 
@@ -134,6 +139,7 @@
 - [단어 뒤집기2 (BOJ 17413)](https://xkdl780.tistory.com/124)
 - [전화번호 목록 (BOJ 5052번)](https://xkdl780.tistory.com/170)
 - [IOIOI (BOJ 5525번)](https://xkdl780.tistory.com/171)
+- [비슷한 단어 (BOJ 2607번)](https://xkdl780.tistory.com/192)
 
 </br>
 
@@ -151,6 +157,7 @@
 - [K번째 최단경로 찾기 (BOJ 1854번 / 다익스트라)](https://xkdl780.tistory.com/158)
 - [택배 배송 (BOJ 5972번 / 다익스트라)](https://xkdl780.tistory.com/161)
 - [횡단보도 (BOJ 24042번)](https://xkdl780.tistory.com/174)
+- [알고스팟 (BOJ 1261번)](https://xkdl780.tistory.com/197)
 
 
 </br>
@@ -158,6 +165,7 @@
 # 투 포인터 (Two Pointer)
 - [회문 (BOJ 17609번)](https://xkdl780.tistory.com/173)
 - [부분합 (BOJ 1806번)](https://xkdl780.tistory.com/184)
+- [List of Unique Numbers (BOJ 13144번)](https://xkdl780.tistory.com/187)
 
 </br>
 
@@ -165,6 +173,9 @@
 - [A와 B 2 (BOJ 12919번 / Brute Force)](https://xkdl780.tistory.com/150)
 - [빌런 호석 (BOJ 22251번)](https://xkdl780.tistory.com/179)
 - [0 만들기 (BOJ 7490번 / DFS / 브루트포스)](https://xkdl780.tistory.com/181)
+- [고층 건물 (BOJ 1027번)](https://xkdl780.tistory.com/189)
+- [수 이어 쓰기 (BOJ 1515번)](https://xkdl780.tistory.com/191)
+- [하늘에서 별똥별이 빗발친다 (BOJ 14658번)](https://xkdl780.tistory.com/195)
 
 </br>
 
