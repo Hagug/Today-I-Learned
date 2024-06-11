@@ -22,7 +22,8 @@
 - [A와 B (BOJ 12940번)](https://xkdl780.tistory.com/167)
 - [센서 (BOJ 2212번)](https://xkdl780.tistory.com/168)
 - [공항 (BOJ 10775번 / 그리디 / 분리 집합)](https://xkdl780.tistory.com/169)
-
+- [가희와 탑 (BOJ 24337번 / 그리디)](https://xkdl780.tistory.com/199)
+- [성냥개비 (BOJ 3687번 / 그리디)](https://xkdl780.tistory.com/204)
 </br>
 
 # 이분 탐색 (Binary Search)
@@ -130,6 +131,8 @@
 - [공통 부분 문자열 (BOJ 5582번 / DP / LCS)](https://xkdl780.tistory.com/172)
 - [줄세우기 (BOJ 2631번 / DP / LIS)](https://xkdl780.tistory.com/194)
 - [게임 개발 (BOJ 1516번)](https://xkdl780.tistory.com/196)
+- [동전 분배 (BOJ 1943번)](https://xkdl780.tistory.com/201)
+- [1의 개수 세기 (BOJ 9527번 / DP / 이분탐색)](https://xkdl780.tistory.com/202)
   
 </br>
 
@@ -198,3 +201,5 @@
 - [숫자고르기 (BOJ 2668번 / 그래프)](https://xkdl780.tistory.com/177)
 - [크로스 스트릿 (BOJ 9017번 / 구현)](https://xkdl780.tistory.com/178)
 - [스카이라인 쉬운거 (BOJ 1863 / 해시)](https://xkdl780.tistory.com/180)
+- [에디터 (BOJ 1406번 / 연결리스트)](https://xkdl780.tistory.com/200)
+- [한 줄로 서기 (BOJ 1138 / 구현)](https://xkdl780.tistory.com/203)
