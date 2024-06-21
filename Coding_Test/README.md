@@ -84,6 +84,7 @@
 - [인구 이동 (BOJ 16234번)](https://xkdl780.tistory.com/159)
 - [여행 가자 (BOJ 1976번)](https://xkdl780.tistory.com/188)
 - [불! (BOJ 4179번)](https://xkdl780.tistory.com/190)
+- [적록색약 (BOJ 10026번)](https://xkdl780.tistory.com/209)
 
 </br>
 
@@ -103,6 +104,12 @@
 - [카드 정렬하기 (BOJ 1715번 / 우선순위 큐)](https://xkdl780.tistory.com/120)
 - [가운데를 말해요 (BOJ 1655번 / Heap)](https://xkdl780.tistory.com/123)
 - [컨베이어 벨트 위의 로봇 (BOJ 20055번 / 덱)](https://xkdl780.tistory.com/151)
+
+</br>
+
+# 트리 (Tree)
+- [그래프 트리 분할 (BOJ 22954번 / 그래프 / 트리 / BFS)](https://xkdl780.tistory.com/206)
+- [등산 마니아 (BOJ 20188번 / 트리 / DFS)](https://xkdl780.tistory.com/208)
 
 </br>
 
@@ -133,6 +140,7 @@
 - [게임 개발 (BOJ 1516번)](https://xkdl780.tistory.com/196)
 - [동전 분배 (BOJ 1943번)](https://xkdl780.tistory.com/201)
 - [1의 개수 세기 (BOJ 9527번 / DP / 이분탐색)](https://xkdl780.tistory.com/202)
+- [로봇 조종하기 (BOJ 2169번번 / DP)](https://xkdl780.tistory.com/205)
   
 </br>
 
@@ -150,6 +158,7 @@
 - [문자열 게임 2 (BOJ 20437번)](https://xkdl780.tistory.com/153)
 - [회전 초밥 (BOJ 2531번)](https://xkdl780.tistory.com/154)
 - [블로그 (BOJ 21921번)](https://xkdl780.tistory.com/183)
+- [문자열 교환 (BOJ 1522번)](https://xkdl780.tistory.com/207)
 
 </br>
 
