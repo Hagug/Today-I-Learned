@@ -85,6 +85,8 @@
 - [여행 가자 (BOJ 1976번)](https://xkdl780.tistory.com/188)
 - [불! (BOJ 4179번)](https://xkdl780.tistory.com/190)
 - [적록색약 (BOJ 10026번)](https://xkdl780.tistory.com/209)
+- [소문난 칠공주 (BOJ 1941번 / BFS / 백트래킹)](https://xkdl780.tistory.com/221)
+- [백조의 호수 (BOJ 3197번 / BFS)](https://xkdl780.tistory.com/223)
 
 </br>
 
@@ -140,7 +142,9 @@
 - [게임 개발 (BOJ 1516번)](https://xkdl780.tistory.com/196)
 - [동전 분배 (BOJ 1943번)](https://xkdl780.tistory.com/201)
 - [1의 개수 세기 (BOJ 9527번 / DP / 이분탐색)](https://xkdl780.tistory.com/202)
-- [로봇 조종하기 (BOJ 2169번번 / DP)](https://xkdl780.tistory.com/205)
+- [로봇 조종하기 (BOJ 2169번 / DP)](https://xkdl780.tistory.com/205)
+- [퇴사 2 (BOJ 15486번 / DP)](https://xkdl780.tistory.com/210)
+- [행렬 곱셈 순서 (BOJ 11049번 / DP)](https://xkdl780.tistory.com/222)
   
 </br>
 
@@ -188,6 +192,31 @@
 - [고층 건물 (BOJ 1027번)](https://xkdl780.tistory.com/189)
 - [수 이어 쓰기 (BOJ 1515번)](https://xkdl780.tistory.com/191)
 - [하늘에서 별똥별이 빗발친다 (BOJ 14658번)](https://xkdl780.tistory.com/195)
+- [치킨 배달 (BOJ 15686번 / 브루트포스 / 백트래킹)](https://xkdl780.tistory.com/218)
+
+</br>
+
+# 구현 (Implementation)
+- [등수 구하기 (BOJ 1205번 / 구현)](https://xkdl780.tistory.com/152)
+- [빗물 (BOJ 14719번 / 구현)](https://xkdl780.tistory.com/160)
+- [틱택토 (BOJ 7682번 / 구현)](https://xkdl780.tistory.com/176)
+- [크로스 스트릿 (BOJ 9017번 / 구현)](https://xkdl780.tistory.com/178)
+- [한 줄로 서기 (BOJ 1138 / 구현)](https://xkdl780.tistory.com/203)
+- [스티커 붙이기 (BOJ 18808번 / 구현 / 브루트포스)](https://xkdl780.tistory.com/211)
+- [2048 (Easy) (BOJ 12100번 / 구현)](https://xkdl780.tistory.com/212)
+- [톱니바퀴 (BOJ 14891번 / 구현)](https://xkdl780.tistory.com/213)
+- [Puyo Puyo (BOJ 11559번 / 구현 / BFS)](https://xkdl780.tistory.com/214)
+- [감시 (BOJ 15683번 / 구현)](https://xkdl780.tistory.com/215)
+- [Maaaaaaaaaze (BOJ 16985번 / 구현))](https://xkdl780.tistory.com/216)
+- [마인크래프트 (BOJ 18111번 / 구현)](https://xkdl780.tistory.com/217)
+- [구슬 탈출 2 (BOJ 13460번 / 구현 / 브루트포스 / 백트래킹)](https://xkdl780.tistory.com/218)
+- [주사위 굴리기 (BOJ 14499번 / 구현)](https://xkdl780.tistory.com/220)
+
+</br>
+
+# 수학 (Math)
+- [이항 계수 2 (BOJ 11051번 / DP, 페르마의 소정리, 모듈러 연산)](https://xkdl780.tistory.com/224)
+- [이항 계수 3 (BOJ 11401 번 / 페르마의 소정리, 분할정복)](https://xkdl780.tistory.com/225)
 
 </br>
 
@@ -204,11 +233,6 @@
 - [공 넣기 (백준 10810번 / 배열)](https://xkdl780.tistory.com/60)
 - [다리 놓기 (BOJ 1010번](https://xkdl780.tistory.com/95)
 - [키로거 (BOJ 5397번 / 연결리스트)](https://xkdl780.tistory.com/125)
-- [등수 구하기 (BOJ 1205번 / 구현)](https://xkdl780.tistory.com/152)
-- [빗물 (BOJ 14719번 / 구현)](https://xkdl780.tistory.com/160)
-- [틱택토 (BOJ 7682번 / 구현)](https://xkdl780.tistory.com/176)
 - [숫자고르기 (BOJ 2668번 / 그래프)](https://xkdl780.tistory.com/177)
-- [크로스 스트릿 (BOJ 9017번 / 구현)](https://xkdl780.tistory.com/178)
 - [스카이라인 쉬운거 (BOJ 1863 / 해시)](https://xkdl780.tistory.com/180)
 - [에디터 (BOJ 1406번 / 연결리스트)](https://xkdl780.tistory.com/200)
-- [한 줄로 서기 (BOJ 1138 / 구현)](https://xkdl780.tistory.com/203)
